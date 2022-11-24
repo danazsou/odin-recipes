@@ -1,0 +1,1 @@
+This is the initial readme for a recipe project. Going back to basics and reviewing basic skills. 
